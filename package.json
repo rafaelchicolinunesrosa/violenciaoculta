@@ -1,0 +1,17 @@
+{
+  "name": "seguranca-transparente",
+  "version": "1.0.0",
+  "description": "Projeto de extensão universitária do curso de Gestão de Atividade Policial: Segurança Transparente.",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cifra",
+    "oculta",
+    "seguranca",
+    "policial"
+  ],
+  "author": "Rafael Chicoli Nunes Rosa",
+  "license": "ISC"
+}
